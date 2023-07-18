@@ -4,7 +4,7 @@
         <img width="240em" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoneBulande&layout=compact&langs_count=6&theme=transparent&hide_border=true"/>
     </a>    
     <div align="center">
-      <img src="https://github.com/daviosantos/Davi/blob/main/plan.gif" alt="Image" height="400" width="400"/>
+      <img src="https://github.com/daviosantos/Davi/blob/main/plan.gif" alt="Image" height="300" width="300"/>
     </div>    
     <a href="https://github.com/daviosantos" align="center">
         <img src="https://streak-stats.demolab.com?user=daviosantos&theme=transparent&hide_border=true&card_width=400&hide_total_contributions=true">
